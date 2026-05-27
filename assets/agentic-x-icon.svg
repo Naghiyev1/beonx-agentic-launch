@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="BEONx Agentic X">
+<rect width="100" height="100" rx="22" fill="#F6F8F8"/>
+<path d="M25 24 L75 76" stroke="#5BC1B6" stroke-width="13" stroke-linecap="round"/>
+<path d="M75 24 L25 76" stroke="#E50695" stroke-width="13" stroke-linecap="round"/>
+<circle cx="50" cy="50" r="8.5" fill="#FF9E18" stroke="#fff" stroke-width="4"/>
+</svg>

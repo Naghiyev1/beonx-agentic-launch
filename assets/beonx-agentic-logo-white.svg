@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 120" role="img" aria-label="BEONx">
+<text x="18" y="78" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="800" fill="#FFFFFF" letter-spacing="-2">BEON</text>
+<g transform="translate(280,24)">
+<path d="M10 8 L70 68" stroke="#5BC1B6" stroke-width="14" stroke-linecap="round"/>
+<path d="M70 8 L10 68" stroke="#E50695" stroke-width="14" stroke-linecap="round"/>
+<circle cx="40" cy="38" r="8.5" fill="#FF9E18" stroke="#15242B" stroke-width="4"/>
+</g>
+</svg>
